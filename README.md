@@ -6,11 +6,11 @@
 
 <br />
 
-Привет, меня зовут Кирилл, я инженер ПТО. Сейчас учусь на IT-специалиста. Изучаю Git и ещё несколько интересных технологий.
+Привет, меня зовут Кирилл. IT-специалист самоучка. Изучаю Python и ещё несколько интересных технологий.
 
 <br />
 
-<img align="right" alt="GIF" src="https://wazzup24.com/wp-content/uploads/2020/05/integracziya_bitriks24_s_whatsapp_1.png" width="400" height="280" />
+<img align="right" alt="GIF" src="https://wazzup24.com/wp-content/uploads/2020/05/integracziya_bitriks24_s_whatsapp_1.png" width="300" height="280" />
   
 **Languages and Tools:**  
 
