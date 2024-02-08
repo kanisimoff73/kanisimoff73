@@ -10,7 +10,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="https://files.oaiusercontent.com/file-uPmo8XLFPVdlFkwnsAoPii56?se=2024-02-08T05%3A10%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd3233694-a440-4669-beeb-7b8e029e92bc.webp&sig=h3dCy3r7aGfBGO3rKT8CNX16OT4ht5D7KcnE1QnuzFY%3D" width="300" height="280" />
+<img align="right" alt="GIF" src="https://codism.io/wp-content/uploads/2019/11/Python-011.png" width="300" height="280" />
   
 **Languages and Tools:**  
 
