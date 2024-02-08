@@ -10,7 +10,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="[https://wazzup24.com/wp-content/uploads/2020/05/integracziya_bitriks24_s_whatsapp_1.png](https://codism.io/wp-content/uploads/2019/11/Python-011.png)" width="300" height="280" />
+<img align="right" alt="GIF" src="https://wazzup24.com/wp-content/uploads/2020/05/integracziya_bitriks24_s_whatsapp_1.png" width="300" height="280" />
   
 **Languages and Tools:**  
 
