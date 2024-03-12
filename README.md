@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p>Telegram: https://t.me/kanisimoff_073</p>
+<p>Telegram: https://t.me/kanisimoff_044</p>
 <p>Телефон: +7(983)1706491</p>
 
 <br />
